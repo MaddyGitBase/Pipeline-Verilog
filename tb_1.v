@@ -1,4 +1,4 @@
-// adding 10,20, 30 storing them in r1,r2 and r3 then storing sum in r4 and r5
+// adding 10,20, 30 storing them in r1,r2 and r3 then storing sum in r4 and r5.
 
 module test_mips32;
 
